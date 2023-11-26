@@ -1,0 +1,39 @@
+{
+    "services":[
+        {
+            "id": "1",
+            "title":  "Tecnología nueva",
+            "description": "¡Los resúmenes de noticias son una excelente manera de informar a los clientes sobre nuevos productos y servicios, eventos, premios y mucho más! ¡Los resúmenes de noticias son una excelente manera de informar a los clientes sobre nuevos productos y servicios, eventos, premios y mucho más!"
+        },
+        {
+            "id": "2",
+            "title":  "Soporte Técnico",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, et hic fuga distinctio, saepe velit cumque facilis placeat officia ad repellendus sint ipsa alias rerum! Pariatur corrupti voluptate magnam nemo."
+        }
+    
+    ],
+
+ 
+    
+    "categories":[
+            {
+                "id": "3",
+                "title":  "Teléfonos y accesorios",
+                "text":  "Clase alta, teléfonos de alta calidad a precios asequibles",
+                "img": "accesories.png"
+            },
+            {
+                "id": "4",
+                "title":  "Equipamiento informático",
+                "text":  "Todas tus necesidades de escritorio u ordenador están disponibles",
+                "img": "equipament.png"
+            },
+            {
+                "id": "5",
+                "title":  "Artículos variados",
+                "text":  "Tenemos más cosas para satisfacer tus necesidades técnicas",
+                "img": "articles.png"
+            }
+        ]
+  
+}
