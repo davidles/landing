@@ -23,7 +23,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/davidles/landing
+    git clone https://github.com/davidles/landing.git
     ```
 
 2. Navigate to the project directory:
