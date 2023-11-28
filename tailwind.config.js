@@ -9,5 +9,7 @@ export default {
       'sans': ['system-ui']
     }
   },
-  plugins: [],
+  plugins: [
+    require('tailwindcss-animated')
+  ],
 }

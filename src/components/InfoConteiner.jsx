@@ -1,3 +1,4 @@
+// import '../App.css';
 
 export const InfoConteiner = ( { children } ) => {
   return (

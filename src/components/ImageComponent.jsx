@@ -5,6 +5,7 @@ export const ImageComponent = ({ url, alt, h }) => {
       <img
         className={`w-96 rounded-se-[40px] ${h || "h-auto"} `}
         src={url}
-        alt={alt} />
+        alt={alt} 
+      />
   )
 }
